@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Drum-Machine/static/css/main.4fb41d2b.css",
+    "main.js": "/Drum-Machine/static/js/main.cc2aaa24.js",
+    "static/js/592.248f20a8.chunk.js": "/Drum-Machine/static/js/592.248f20a8.chunk.js",
+    "static/media/Rising Harp Music 691.wav": "/Drum-Machine/static/media/Rising Harp Music 691.0053a411f2aeea781499.wav",
+    "static/media/Bass.wav": "/Drum-Machine/static/media/Bass.fe3bccf72c0858ef5934.wav",
+    "static/media/Magic.wav": "/Drum-Machine/static/media/Magic.967413f5ea50b2bf51ac.wav",
+    "static/media/Chord.wav": "/Drum-Machine/static/media/Chord.7fdd1c5fa9c90977b711.wav",
+    "static/media/Piano Losing 2024.wav": "/Drum-Machine/static/media/Piano Losing 2024.d3dbac7640a1b4e7a2f5.wav",
+    "static/media/Little Piano Game Over.wav": "/Drum-Machine/static/media/Little Piano Game Over.e3865957db412107c00c.wav",
+    "static/media/Piano Cartoon Failure.wav": "/Drum-Machine/static/media/Piano Cartoon Failure.f6b73dce5cb147e75559.wav",
+    "static/media/Piano.wav": "/Drum-Machine/static/media/Piano.0335559daaf97830f22d.wav",
+    "static/media/Bad Joke Drums 2893.wav": "/Drum-Machine/static/media/Bad Joke Drums 2893.d8b0782b2590a9493f1f.wav",
+    "index.html": "/Drum-Machine/index.html",
+    "main.4fb41d2b.css.map": "/Drum-Machine/static/css/main.4fb41d2b.css.map",
+    "main.cc2aaa24.js.map": "/Drum-Machine/static/js/main.cc2aaa24.js.map",
+    "592.248f20a8.chunk.js.map": "/Drum-Machine/static/js/592.248f20a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fb41d2b.css",
+    "static/js/main.cc2aaa24.js"
+  ]
+}
